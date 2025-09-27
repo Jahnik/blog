@@ -7,7 +7,7 @@ export default function Page() {
         My Portfolio
       </h1>
       <p className="mb-4">
-        {`Hi. I'm Jahnik and this is my blog`}
+        {`Hi. I'm Jahnik and this is my blog about Fractal Tech Bootcamp`}
       </p>
       <div className="my-8">
         <BlogPosts />
